@@ -1,0 +1,4 @@
+﻿  NewProject.cpp
+E:\Студенты\Новиков Сергей_П21\NewProject\NewProject\NewProject.cpp(262,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Студенты\Новиков Сергей_П21\NewProject\NewProject\NewProject.cpp(275,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NewProject.vcxproj -> E:\Студенты\Новиков Сергей_П21\NewProject\x64\Debug\NewProject.exe

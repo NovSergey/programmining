@@ -1,0 +1,4 @@
+﻿  project.cpp
+E:\Студенты\Новиков Сергей_П21\project\project\Functional.h(8,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Студенты\Новиков Сергей_П21\project\project\project.cpp(13,20): warning C4309: 'argument': truncation of constant value
+  project.vcxproj -> E:\Студенты\Новиков Сергей_П21\project\x64\Debug\project.exe
